@@ -69,6 +69,9 @@ A collection of Awesome OSINT Software and Techniques.
 
 ## News
 - [Bellingcat](https://www.bellingcat.com/) (Free)
+- [OSINT News](https://osint-news.com/) (Free)
+- [OSINT Telegraph](https://osinttelegraph.com/) (Free)
+- [The Hacker News](https://thehackernews.com/) (Free)
 
 ## People (email, phone, username)
 - [GetContact](https://www.getcontact.com/en/) (Free)
