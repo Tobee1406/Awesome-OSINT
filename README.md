@@ -39,6 +39,7 @@ A collection of Awesome OSINT Software and Techniques.
 - [Google Maps](https://www.google.com/maps/) (Free)
 - [Google Earth](https://www.google.nl/intl/nl_ALL/earth/versions/) (Free)
 - [Skråfoto](https://skraafoto.dataforsyningen.dk/) (Free) (Denmark)
+- [SunCalc](https://www.suncalc.org/) (Free)
 - [Yandex Maps](https://yandex.com/maps) (Free)
 
 ## Image
