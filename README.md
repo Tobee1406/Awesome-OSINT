@@ -82,6 +82,19 @@ A collection of Awesome OSINT Software and Techniques.
 - [Yandex](https://www.yandex.com/) (Free)
 
 ## Social Media
+Discord:
+- [Disboard](https://disboard.org/da/servers) (Free)
+- [DiscordLeaks](https://discordleaks.unicornriot.ninja/discord/server/) (Free)
+
+Instagram:
+- [InstaLoader](https://github.com/instaloader/instaloader) (Free)
+- [StorySaver](https://www.storysaver.net/) (Free)
+
+Minecraft:
+- [NameMC](https://namemc.com/) (Free)
+
+Steam:
+- [SteamID](http://steamid.uk/) (Free)
 
 ## Traffic
 - [Flightradar24](https://www.flightradar24.com/) (Free)
