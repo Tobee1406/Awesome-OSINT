@@ -5,6 +5,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of Awesome OSINT Software and Techniques.
+
+Inspired by Bellingcat's Online Investigation Toolkit.
 </div>
 
 # Contents
@@ -12,7 +14,8 @@ A collection of Awesome OSINT Software and Techniques.
 - [Companies and Finance](#companies-and-finance)
 - [Environment and Wildlife](#environment-and-wildlife)
 - [Geolocation](#geolocation)
-- [Image](#image)
+- [Guides and Handbooks](#guides-and-handbooks)
+- [Image and Video](#image-and-video)
 	- [Facial Recognition](#facial-recognition)
 	- [Metadata](#metadata)
 	- [Reverse Image Search](#reverse-image-search)
@@ -20,6 +23,7 @@ A collection of Awesome OSINT Software and Techniques.
 - [News](#news)
 - [Search](#search)
 - [Social Media](#social-media)
+- [Sound](#sound)
 - [Traffic](#traffic) 
 
 ## Archive
@@ -39,11 +43,16 @@ A collection of Awesome OSINT Software and Techniques.
 - [Bing Maps](https://www.bing.com/maps) (Free)
 - [Google Maps](https://www.google.com/maps/) (Free)
 - [Google Earth](https://www.google.nl/intl/nl_ALL/earth/versions/) (Free)
+- [IPVM Calculator](https://calculator.ipvm.com/) (Free)
 - [Skråfoto](https://skraafoto.dataforsyningen.dk/) (Free) (Denmark)
 - [SunCalc](https://www.suncalc.org/) (Free)
 - [Yandex Maps](https://yandex.com/maps) (Free)
 
-## Image
+## Guides and Handbooks
+- [Bellingcat Guides](http://www.bellingcat.com/category/resources/how-tos) (Free)
+- [Ben Strick's "OSINT At Home" playlist](https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy) (Free)
+
+## Image and Video
 ### Facial Recognition
 - [Amazon Rekognition](https://aws.amazon.com/getting-started/hands-on/detect-analyze-compare-faces-rekognition/) (Free)
 - [PimEyes](https://pimeyes.com/en) (Partial)
@@ -63,6 +72,8 @@ A collection of Awesome OSINT Software and Techniques.
 ### Reverse Image Search
 - [Bing](https://www.bing.com/) (Free)
 - [Google Images](https://images.google.com/) (Free)
+- [Google Lens](https://lens.google.com/search?p=) (Free)
+- [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) (Free)
 - [KarmaDecay](http://karmadecay.com/) (Free)
 - [RootAbout](http://rootabout.com/) (Free)
 - [TinEye](https://tineye.com/) (Free)
@@ -95,6 +106,9 @@ Discord:
 - [Disboard](https://disboard.org/da/servers) (Free)
 - [DiscordLeaks](https://discordleaks.unicornriot.ninja/discord/server/) (Free)
 
+Facebook:
+- [Facebook Video Downloader](http://fdown.net/) (Free)
+
 Instagram:
 - [InstaLoader](https://github.com/instaloader/instaloader) (Free)
 - [StorySaver](https://www.storysaver.net/) (Free)
@@ -104,6 +118,11 @@ Minecraft:
 
 Steam:
 - [SteamID](http://steamid.uk/) (Free)
+
+## Sound
+- [Shazam](https://www.shazam.com/) (Free)
+- [Speechnotes](https://speechnotes.co/) (Free)
+- [Transcripe](https://transcribe.com/) (Free)
 
 ## Traffic
 - [Flightradar24](https://www.flightradar24.com/) (Free)
