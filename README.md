@@ -13,9 +13,6 @@ A collection of Awesome OSINT Software and Techniques.
 - [Search](#search)
 - [Traffic](#traffic)
 
-## API
-- 
-
 ## Geolocation
 - [Google Maps](https://www.google.com/maps/) (Free)
 - [Google Earth](https://www.google.nl/intl/nl_ALL/earth/versions/) (Free)
