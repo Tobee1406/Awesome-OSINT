@@ -16,6 +16,7 @@ A collection of Awesome OSINT Software and Techniques.
 	- [Facial Recognition](#facial-recognition)
 	- [Metadata](#metadata)
 	- [Reverse Image Search](#reverse-image-search)
+- [Kali Linux](#kali-linux)
 - [News](#news)
 - [Search](#search)
 - [Social Media](#social-media)
@@ -66,6 +67,10 @@ A collection of Awesome OSINT Software and Techniques.
 - [RootAbout](http://rootabout.com/) (Free)
 - [TinEye](https://tineye.com/) (Free)
 - [Yandex](https://www.yandex.com/) (Free)
+
+## Kali Linux
+- [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes)
+- [Recon-ng](https://www.kali.org/tools/recon-ng/)
 
 ## News
 - [Bellingcat](https://www.bellingcat.com/) (Free)
