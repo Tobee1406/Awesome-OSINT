@@ -55,7 +55,8 @@ Inspired by Bellingcat's Online Investigation Toolkit.
 - [Google Earth Web](https://earth.google.com/) (Free)
 - [Google Earth Pro](https://www.google.com/earth/about/versions/) (Free)
 - [IPVM Calculator](https://calculator.ipvm.com/) (Free)
-- [MGP Xpress]
+- [MGP Xpress](https://xpress.maxar.com/) (Free)
+- [Sentinel](https://apps.sentinel-hub.com/) (Free) (User setup)
 - [Skråfoto](https://skraafoto.dataforsyningen.dk/) (Free) (Denmark)
 - [SunCalc](https://www.suncalc.org/) (Free)
 - [Yandex Maps](https://yandex.com/maps) (Free)
