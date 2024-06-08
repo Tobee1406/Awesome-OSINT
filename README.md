@@ -12,6 +12,7 @@ Inspired by Bellingcat's Online Investigation Toolkit.
 # Contents
 - [Archive](#archive)
 - [Companies and Finance](#companies-and-finance)
+- [Education](#education)
 - [Environment and Wildlife](#environment-and-wildlife)
 - [Geolocation](#geolocation)
 - [Guides and Handbooks](#guides-and-handbooks)
@@ -24,7 +25,8 @@ Inspired by Bellingcat's Online Investigation Toolkit.
 - [Search](#search)
 - [Social Media](#social-media)
 - [Sound](#sound)
-- [Traffic](#traffic) 
+- [Traffic](#traffic)
+- [Website](#website)
 
 ## Archive
 - [Archive.org](http://archive.org/) (Free)
@@ -37,6 +39,10 @@ Inspired by Bellingcat's Online Investigation Toolkit.
 - [Sanctions Explorer](https://sanctionsexplorer.org/) (Free)
 - [WorldWide OSINT tools map](https://cybdetective.com/osintmap/) (Free)
 
+## Education
+- [GeoGuessr](https://www.geoguessr.com/) (Paid)
+- [Sofia Santos | OSINT Analysis & Exercises](https://gralhix.com/list-of-osint-exercises/) (Free)
+
 ## Environment and Wildlife
 - [Cadastral Map](https://www.matriklen.dk/#/) (Free) (Denmark)
 - [Conservation Area](https://fredningsnaevn.dk/fredninger/kort-over-fredninger) (Free) (Denmark)
@@ -46,7 +52,8 @@ Inspired by Bellingcat's Online Investigation Toolkit.
 - [Apple Maps](https://mapsconnect.apple.com/) (Free) (User setup)
 - [Bing Maps](https://www.bing.com/maps) (Free)
 - [Google Maps](https://www.google.com/maps/) (Free)
-- [Google Earth](https://www.google.nl/intl/nl_ALL/earth/versions/) (Free)
+- [Google Earth Web](https://earth.google.com/) (Free)
+- [Google Earth Pro](https://www.google.com/earth/about/versions/) (Free)
 - [IPVM Calculator](https://calculator.ipvm.com/) (Free)
 - [Skråfoto](https://skraafoto.dataforsyningen.dk/) (Free) (Denmark)
 - [SunCalc](https://www.suncalc.org/) (Free)
@@ -87,6 +94,7 @@ Inspired by Bellingcat's Online Investigation Toolkit.
 ## Kali Linux
 - [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes)
 - [Recon-ng](https://www.kali.org/tools/recon-ng/)
+- [theharvester](https://www.kali.org/tools/theharvester/) (Free)
 
 ## News
 - [Bellingcat](https://www.bellingcat.com/) (Free)
@@ -126,6 +134,7 @@ Steam:
 
 ## Sound
 - [Shazam](https://www.shazam.com/) (Free)
+- [Spectrum Analyzer](https://academo.org/demos/spectrum-analyzer/) (Free)
 - [Speechnotes](https://speechnotes.co/) (Free)
 - [Transcripe](https://transcribe.com/) (Free)
 
@@ -139,4 +148,8 @@ Steam:
 
 ## Website
 - [Geo IP Tools](http://geoiptool.com/) (Free)
+- [Maltego](https://www.maltego.com/) (Partial)
+- [Searchcode](https://searchcode.com/) (Free)
+- [Shodan](https://www.shodan.io/) (Free)
+- [SpiderFoot](https://github.com/smicallef/spiderfoot) (Free)
 - [WhoIs](http://whois.net/) (Free)
