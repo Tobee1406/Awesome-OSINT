@@ -28,13 +28,17 @@ Inspired by Bellingcat's Online Investigation Toolkit.
 
 ## Archive
 - [Archive.org](http://archive.org/) (Free)
+- [Google Pinpoint](https://journaliststudio.google.com/pinpoint/about) (Free)
 
 ## Companies and Finance
 - [Company Registry](https://datacvr.virk.dk/) (Free) (Denmark)
 - [Etherscan](http://etherscan.io/) (Free)
 - [ICIJ Offshore Leaks Database](http://offshoreleaks.icij.org/) (Free)
+- [Sanctions Explorer](https://sanctionsexplorer.org/) (Free)
+- [WorldWide OSINT tools map](https://cybdetective.com/osintmap/) (Free)
 
 ## Environment and Wildlife
+- [Cadastral Map](https://www.matriklen.dk/#/) (Free) (Denmark)
 - [Conservation Area](https://fredningsnaevn.dk/fredninger/kort-over-fredninger) (Free) (Denmark)
 - [NASA | FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) (Free)
 
@@ -51,6 +55,7 @@ Inspired by Bellingcat's Online Investigation Toolkit.
 ## Guides and Handbooks
 - [Bellingcat Guides](http://www.bellingcat.com/category/resources/how-tos) (Free)
 - [Ben Strick's "OSINT At Home" playlist](https://www.youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy) (Free)
+- [GeoTips](https://geotips.net/) (Free)
 
 ## Image and Video
 ### Facial Recognition
@@ -126,7 +131,8 @@ Steam:
 
 ## Traffic
 - [Flightradar24](https://www.flightradar24.com/) (Free)
-- [License Plate Registry](https://nummerpladeregister.dk/) (Free) (Denmark)
+- [License Plate Registry | Nummerpladeregister](https://nummerpladeregister.dk/) (Free) (Denmark)
+- [License Plate Registry | TjekBil](https://www.tjekbil.dk/) (Free)
 - [License Plate Mania](http://licenseplatemania.com/) (Free)
 - [Live Train Tracker](https://mobility.portal.geops.io/) (Free)
 - [MarineTraffic](https://www.marinetraffic.com/) (Free)
