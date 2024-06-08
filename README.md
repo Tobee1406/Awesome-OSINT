@@ -9,6 +9,8 @@ A collection of Awesome OSINT Software and Techniques.
 Inspired by Bellingcat's Online Investigation Toolkit.
 </div>
 
+![](https://img.shields.io/github/license/Tobee1406/Awesome-OSINT) ![](https://badges.pufler.dev/visits/Tobee1406/Awesome-OSINT) ![](https://img.shields.io/github/stars/Tobee1406/Awesome-OSINT)
+
 # Contents
 - [Archive](#archive)
 - [Companies and Finance](#companies-and-finance)
