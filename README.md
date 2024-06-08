@@ -102,6 +102,7 @@ Inspired by Bellingcat's Online Investigation Toolkit.
 - [Bellingcat](https://www.bellingcat.com/) (Free)
 - [OSINT News](https://osint-news.com/) (Free)
 - [OSINT Telegraph](https://osinttelegraph.com/) (Free)
+- [Planet](https://www.planet.com/) (Free)
 - [The Hacker News](https://thehackernews.com/) (Free)
 
 ## People (email, phone, username)
