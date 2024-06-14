@@ -65,6 +65,7 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 - [Sentinel](https://apps.sentinel-hub.com/) (Free) (User setup)
 - [Skråfoto](https://skraafoto.dataforsyningen.dk/) (Free) (Denmark)
 - [SunCalc](https://www.suncalc.org/) (Free)
+- [Wikimapia](http://wikimapia.org/) (Free)
 - [Yandex Maps](https://yandex.com/maps) (Free)
 
 ## :closed_book: Guides and Handbooks
@@ -113,6 +114,7 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 - [The Hacker News](https://thehackernews.com/) (Free)
 
 ## :bust_in_silhouette: People (email, phone, username)
+- [Email Checker](https://epieos.com/)
 - [GetContact](https://www.getcontact.com/en/) (Free)
 - [Krak](https://www.krak.dk/) (Free) (Denmark)
 - [Skype](https://www.skype.com/) (Free)
@@ -121,8 +123,9 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 ## :mag: Search
 - [Bing](https://www.bing.com/) (Free)
 - [Google](https://www.google.com/) (Free)
-    - [Google Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks.git)
+	- [Google Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks.git)
 - [Yandex](https://www.yandex.com/) (Free)
+	- [Yandex Dorks](https://github.com/Tobee1406/Awesome-Yandex-Dorks.git)
 
 ## :hash: Social Media
 Discord:
@@ -131,6 +134,7 @@ Discord:
 
 Facebook:
 - [Facebook Video Downloader](http://fdown.net/) (Free)
+- [Who posted what?](http://whopostedwhat.com/) (Free)
 
 Instagram:
 - [InstaLoader](https://github.com/instaloader/instaloader) (Free)
@@ -139,8 +143,34 @@ Instagram:
 Minecraft:
 - [NameMC](https://namemc.com/) (Free)
 
+Reddit:
+- [Redective](https://www.redective.com/) (Free)
+
 Steam:
 - [SteamID](http://steamid.uk/) (Free)
+
+Telegram:
+- [Bellingcat Phonenumber Check](https://github.com/bellingcat/telegram-phone-number-checker) (Free)
+- [Telepathy](https://github.com/jordanwildon/Telepathy) (Free)
+- [TGstat](https://tgstat.com/) (Free)
+
+TikTok:
+- [Bellingcat TikTok # Analysis](https://github.com/bellingcat/tiktok-hashtag-analysis) (Free)
+- [Bellingcat TikTok Date Extract](https://bellingcat.github.io/tiktok-timestamp/) (Free)
+- [Seach4Faces](https://search4faces.com/tt00/index.html) (Free)
+
+Twitter:
+- [TwitterAudit](http://twitteraudit.com/) (Free)
+- [Twitter Video Downloader](http://twittervideodownloader.com/) (Free)
+
+WhatsApp:
+- [WATools.IO](http://watools.io/) (Partial)
+
+Xbox:
+- [XboxGamertag](https://xboxgamertag.com/) (Free)
+
+YouTube:
+- [youtube-dl](http://rg3.github.io/youtube-dl/) (Free)
 
 ## :loud_sound: Sound
 - [Shazam](https://www.shazam.com/) (Free)
