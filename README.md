@@ -100,12 +100,13 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 - [Yandex](https://www.yandex.com/) (Free)
 
 ## :dragon: Kali Linux
-- [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes)
-- [Recon-ng](https://www.kali.org/tools/recon-ng/)
+- [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) (Free)
+- [Recon-ng](https://www.kali.org/tools/recon-ng/) (Free)
 - [theharvester](https://www.kali.org/tools/theharvester/) (Free)
 
 ## :newspaper: News
 - [Bellingcat](https://www.bellingcat.com/) (Free)
+- [Medium](https://medium.com/tag/osint) (Free)
 - [OSINT News](https://osint-news.com/) (Free)
 - [OSINT Telegraph](https://osinttelegraph.com/) (Free)
 - [Planet](https://www.planet.com/) (Free)
