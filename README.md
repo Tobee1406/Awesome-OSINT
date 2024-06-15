@@ -51,8 +51,16 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 
 ## :deciduous_tree: Environment and Wildlife
 - [Cadastral Map](https://www.matriklen.dk/#/) (Free) (Denmark)
+- [Captive Tiger Facilities (EIA)](https://eia-international.org/wildlife/wildlife-trade-maps/illegal-trade-seizures-captive-tiger-trade/) (Free)
 - [Conservation Area](https://fredningsnaevn.dk/fredninger/kort-over-fredninger) (Free) (Denmark)
+- [Global Fishing Watch](https://globalfishingwatch.org/map/)
+- [Globel Forest Watch Fires](https://www.globalforestwatch.org/map/?map=eyJjZW50ZXIiOnsibGF0IjoxMS4wNjI3MjYxMDE3OTE2ODIsImxuZyI6Ny42MTA4NTMzNzQwNDg3MjV9LCJ6b29tIjo0Ljc3ODgxMTg1NDU1NTYwMTUsImJib3giOm51bGwsImRhdGFzZXRzIjpbeyJkYXRhc2V0IjoiZmlyZS1hbGVydHMtdmlpcnMiLCJvcGFjaXR5IjoxLCJ2aXNpYmlsaXR5Ijp0cnVlLCJsYXllcnMiOlsiZmlyZS1hbGVydHMtdmlpcnMiXX0seyJkYXRhc2V0IjoicG9saXRpY2FsLWJvdW5kYXJpZXMiLCJsYXllcnMiOlsiZGlzcHV0ZWQtcG9saXRpY2FsLWJvdW5kYXJpZXMiLCJwb2xpdGljYWwtYm91bmRhcmllcyJdLCJvcGFjaXR5IjoxLCJ2aXNpYmlsaXR5Ijp0cnVlfSx7ImRhdGFzZXQiOiJmZWU1ZmMzOC03YTYyLTQ5YjgtODg3NC1kZmEzMWNiYjFlZjYiLCJsYXllcnMiOlsiZjEzZjg2Y2ItMDhiNS00ZTZjLWJiOGQtYjQ3ODIwNTJmOWU1Il0sIm9wYWNpdHkiOjEsInZpc2liaWxpdHkiOnRydWV9XSwibGFiZWwiOiJkZWZhdWx0In0%3D&menu=eyJtZW51U2VjdGlvbiI6Im15LWdmdyIsImRhdGFzZXRDYXRlZ29yeSI6IiJ9) (Free)
+- [Global Palm Oil Map](https://developers.google.com/earth-engine/datasets/catalog/BIOPAMA_GlobalOilPalm_v1) (Free)
+- [Leopard Trade (EIA)](https://eia-international.org/wildlife/wildlife-trade-maps/illegal-trade-seizures-asian-big-cats/) (Free)
+- [Locust Hub (FAO)](https://locust-hub-hqfao.hub.arcgis.com/) (Free)
+- [MineAlert (Oxpeckers)](https://mine-alert.oxpeckers.org/#/map) (Free)
 - [NASA | FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) (Free)
+- [Tiger Trade (EIA)](https://tomaszjohnson.carto.com/builder/72829b4c-b009-4e4a-8001-148ca848dcd7/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B0.9667509997666425%2C2.3730468750000004%5D%2C%22sw%22%3A%5B64.20637724320852%2C164.79492187500003%5D%2C%22center%22%3A%5B39.232253141714914%2C83.58398437500001%5D%2C%22zoom%22%3A4%7D%7D) (Free)
 - [Ventusky](https://www.ventusky.com) (Free)
 
 ## :world_map: Geolocation
@@ -193,9 +201,13 @@ YouTube:
 - [MarineTraffic](https://www.marinetraffic.com/) (Free)
 
 ## :globe_with_meridians: Website
+- [DataWrapper](https://www.datawrapper.de/) (Partial)
 - [Geo IP Tools](http://geoiptool.com/) (Free)
+- [Gephi](https://gephi.org/) (Free)
 - [Maltego](https://www.maltego.com/) (Partial)
 - [Searchcode](https://searchcode.com/) (Free)
 - [Shodan](https://www.shodan.io/) (Free)
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) (Free)
+- [Timeline Graphics Editor](https://time.graphics/editor) (Free)
+- [TimelineJS by Knight Lab](http://timeline.knightlab.com/) (Free)
 - [WhoIs](http://whois.net/) (Free)
