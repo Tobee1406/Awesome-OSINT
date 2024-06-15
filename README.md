@@ -53,6 +53,7 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 - [Cadastral Map](https://www.matriklen.dk/#/) (Free) (Denmark)
 - [Conservation Area](https://fredningsnaevn.dk/fredninger/kort-over-fredninger) (Free) (Denmark)
 - [NASA | FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) (Free)
+- [Ventusky](https://www.ventusky.com) (Free)
 
 ## :world_map: Geolocation
 - [Apple Maps](https://mapsconnect.apple.com/) (Free) (User setup)
