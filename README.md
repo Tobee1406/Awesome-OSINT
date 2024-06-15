@@ -115,18 +115,22 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 - [The Hacker News](https://thehackernews.com/) (Free)
 
 ## :bust_in_silhouette: People (email, phone, username)
-- [Email Checker](https://epieos.com/)
+- [Email Checker](https://epieos.com/) (Free)
 - [GetContact](https://www.getcontact.com/en/) (Free)
 - [Krak](https://www.krak.dk/) (Free) (Denmark)
 - [Skype](https://www.skype.com/) (Free)
 - [TrueCaller](https://www.truecaller.com/) (Free)
 
 ## :mag: Search
+- [Baidu](https://www.baidu.com/) (Free) (Chinese)
 - [Bing](https://www.bing.com/) (Free)
-- [DuckDuckGo](https://www.duckduckgo.com/) (Free)
+- [Brave Search](https://www.brave.com/) (Free) (Tor)
+- [DuckDuckGo](https://www.duckduckgo.com/) (Free) (Tor)
 - [Google](https://www.google.com/) (Free)
 	- [Google Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks.git)
-- [Yandex](https://www.yandex.com/) (Free)
+- [Naver](https://www.naver.com/) (Free) (South Korea)
+- [Searx](https://github.com/searxng/searxng) (Free) (Tor)
+- [Yandex](https://www.yandex.com/) (Free) (Russia)
 	- [Yandex Dorks](https://github.com/Tobee1406/Awesome-Yandex-Dorks.git)
 
 ## :hash: Social Media
