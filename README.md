@@ -123,6 +123,7 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 
 ## :mag: Search
 - [Bing](https://www.bing.com/) (Free)
+- [DuckDuckGo](https://www.duckduckgo.com/) (Free)
 - [Google](https://www.google.com/) (Free)
 	- [Google Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks.git)
 - [Yandex](https://www.yandex.com/) (Free)
