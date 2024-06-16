@@ -178,7 +178,7 @@ Twitter:
 - [Twitter Video Downloader](http://twittervideodownloader.com/) $\color{green}{\texttt{Free}}$
 
 WhatsApp:
-- [WATools.IO](http://watools.io/) $\color{yello}{\texttt{Partial}}$
+- [WATools.IO](http://watools.io/) $\color{yellow}{\texttt{Partial}}$
 
 Xbox:
 - [XboxGamertag](https://xboxgamertag.com/) $\color{green}{\texttt{Free}}$
@@ -201,10 +201,10 @@ YouTube:
 - [MarineTraffic](https://www.marinetraffic.com/) $\color{green}{\texttt{Free}}$
 
 ## :globe_with_meridians: Website
-- [DataWrapper](https://www.datawrapper.de/) $\color{yello}{\texttt{Partial}}$
+- [DataWrapper](https://www.datawrapper.de/) $\color{yellow}{\texttt{Partial}}$
 - [Geo IP Tools](http://geoiptool.com/) $\color{green}{\texttt{Free}}$
 - [Gephi](https://gephi.org/) $\color{green}{\texttt{Free}}$
-- [Maltego](https://www.maltego.com/) $\color{yello}{\texttt{Partial}}$
+- [Maltego](https://www.maltego.com/) $\color{yellow}{\texttt{Partial}}$
 - [Searchcode](https://searchcode.com/) $\color{green}{\texttt{Free}}$
 - [Shodan](https://www.shodan.io/) $\color{green}{\texttt{Free}}$
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) $\color{green}{\texttt{Free}}$
