@@ -208,6 +208,7 @@ YouTube:
 - [Scamdoc](https://www.scamdoc.com/) $\color{green}{\texttt{Free}}$
 - [Searchcode](https://searchcode.com/) $\color{green}{\texttt{Free}}$
 - [Shodan](https://www.shodan.io/) $\color{green}{\texttt{Free}}$
+	- [Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries.git)
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) $\color{green}{\texttt{Free}}$
 - [Timeline Graphics Editor](https://time.graphics/editor) $\color{green}{\texttt{Free}}$
 - [TimelineJS by Knight Lab](http://timeline.knightlab.com/) $\color{green}{\texttt{Free}}$
