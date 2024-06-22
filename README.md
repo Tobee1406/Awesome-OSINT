@@ -205,6 +205,7 @@ YouTube:
 - [Geo IP Tools](http://geoiptool.com/) $\color{green}{\texttt{Free}}$
 - [Gephi](https://gephi.org/) $\color{green}{\texttt{Free}}$
 - [Maltego](https://www.maltego.com/) $\color{yellow}{\texttt{Partial}}$
+- [Scamdoc](https://www.scamdoc.com/) $\color{green}{\texttt{Free}}$
 - [Searchcode](https://searchcode.com/) $\color{green}{\texttt{Free}}$
 - [Shodan](https://www.shodan.io/) $\color{green}{\texttt{Free}}$
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) $\color{green}{\texttt{Free}}$
