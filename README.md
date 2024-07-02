@@ -48,6 +48,7 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 ## :mortar_board: Education
 - [GeoGuessr](https://www.geoguessr.com/) $\color{red}{\texttt{Paid}}$
 - [Sofia Santos | OSINT Analysis & Exercises](https://gralhix.com/list-of-osint-exercises/) $\color{green}{\texttt{Free}}$
+- [TryHackMe](https://tryhackme.com/) $\color{yellow}{\texttt{Partial}}$
 
 ## :deciduous_tree: Environment and Wildlife
 - [Cadastral Map](https://www.matriklen.dk/#/) $\color{green}{\texttt{Free}}$ (Denmark)
