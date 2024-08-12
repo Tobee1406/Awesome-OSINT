@@ -67,6 +67,7 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 ## :world_map: Geolocation
 - [Apple Maps](https://mapsconnect.apple.com/) $\color{green}{\texttt{Free}}$ (User setup)
 - [Bing Maps](https://www.bing.com/maps) $\color{green}{\texttt{Free}}$
+- [GeoSpy](https://geospy.web.app/) $\color{green}{\texttt{Free}}$
 - [Google Maps](https://www.google.com/maps/) $\color{green}{\texttt{Free}}$
 - [Google Earth Web](https://earth.google.com/) $\color{green}{\texttt{Free}}$
 - [Google Earth Pro](https://www.google.com/earth/about/versions/) $\color{green}{\texttt{Free}}$
