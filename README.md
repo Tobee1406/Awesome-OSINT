@@ -61,6 +61,7 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 - [Locust Hub (FAO)](https://locust-hub-hqfao.hub.arcgis.com/) $\color{green}{\texttt{Free}}$
 - [MineAlert (Oxpeckers)](https://mine-alert.oxpeckers.org/#/map) $\color{green}{\texttt{Free}}$
 - [NASA | FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) $\color{green}{\texttt{Free}}$
+- [OCEARCH](https://www.ocearch.org/tracker/) $\color{green}{\texttt{Free}}$
 - [Tiger Trade (EIA)](https://tomaszjohnson.carto.com/builder/72829b4c-b009-4e4a-8001-148ca848dcd7/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B0.9667509997666425%2C2.3730468750000004%5D%2C%22sw%22%3A%5B64.20637724320852%2C164.79492187500003%5D%2C%22center%22%3A%5B39.232253141714914%2C83.58398437500001%5D%2C%22zoom%22%3A4%7D%7D) $\color{green}{\texttt{Free}}$
 - [Ventusky](https://www.ventusky.com) $\color{green}{\texttt{Free}}$
 
