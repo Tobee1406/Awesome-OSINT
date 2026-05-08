@@ -156,6 +156,7 @@ Facebook:
 
 Instagram:
 - [InstaLoader](https://github.com/instaloader/instaloader) $\color{green}{\texttt{Free}}$
+- [InstaPV](https://www.instapv.ai/) $\color{green}{\texttt{Free}}$ (Anonymous viewer for public stories, posts, reels, highlights and recent-followed timelines)
 - [StorySaver](https://www.storysaver.net/) $\color{green}{\texttt{Free}}$
 
 Minecraft:
