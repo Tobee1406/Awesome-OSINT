@@ -75,6 +75,7 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 - [Google Earth Pro](https://www.google.com/earth/about/versions/) $\color{green}{\texttt{Free}}$
 - [IPVM Calculator](https://calculator.ipvm.com/) $\color{green}{\texttt{Free}}$
 - [MGP Xpress](https://xpress.maxar.com/) $\color{green}{\texttt{Free}}$
+- [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) $\color{green}{\texttt{Free}}$
 - [Sentinel](https://apps.sentinel-hub.com/) $\color{green}{\texttt{Free}}$ (User setup)
 - [Skråfoto](https://skraafoto.dataforsyningen.dk/) $\color{green}{\texttt{Free}}$ (Denmark)
 - [SunCalc](https://www.suncalc.org/) $\color{green}{\texttt{Free}}$
