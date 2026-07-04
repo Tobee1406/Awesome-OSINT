@@ -179,6 +179,7 @@ TikTok:
 
 Twitter:
 - [TwitterAudit](http://twitteraudit.com/) $\color{green}{\texttt{Free}}$
+- [Xquik](https://xquik.com/) $\color{yellow}{\texttt{Partial}}$
 - [Twitter Video Downloader](http://twittervideodownloader.com/) $\color{green}{\texttt{Free}}$
 
 WhatsApp:
