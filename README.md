@@ -127,6 +127,7 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 - [The Hacker News](https://thehackernews.com/) $\color{green}{\texttt{Free}}$
 
 ## :bust_in_silhouette: People (email, phone, username)
+- [CheckLeaked](https://checkleaked.cc/) $\color{yellow}{\texttt{Partial}}$ (check if an email, username or phone is in a data breach; sources shown)
 - [Email Checker](https://epieos.com/) $\color{green}{\texttt{Free}}$
 - [GetContact](https://www.getcontact.com/en/) $\color{green}{\texttt{Free}}$
 - [Krak](https://www.krak.dk/) $\color{green}{\texttt{Free}}$ (Denmark)
@@ -182,6 +183,7 @@ Twitter:
 - [Twitter Video Downloader](http://twittervideodownloader.com/) $\color{green}{\texttt{Free}}$
 
 WhatsApp:
+- [CheckLeaked WhatsApp](https://whatsapp.checkleaked.cc/) $\color{green}{\texttt{Free}}$ (profile pic history, About/bio, business-account detection)
 - [WATools.IO](http://watools.io/) $\color{yellow}{\texttt{Partial}}$
 
 Xbox:
