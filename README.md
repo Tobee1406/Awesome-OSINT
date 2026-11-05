@@ -176,6 +176,7 @@ TikTok:
 - [Bellingcat TikTok # Analysis](https://github.com/bellingcat/tiktok-hashtag-analysis) $\color{green}{\texttt{Free}}$
 - [Bellingcat TikTok Date Extract](https://bellingcat.github.io/tiktok-timestamp/) $\color{green}{\texttt{Free}}$
 - [Seach4Faces](https://search4faces.com/tt00/index.html) $\color{green}{\texttt{Free}}$
+- [TKMetrics](https://tkmetrics.com/) $\color{yellow}{\texttt{Partial}}$
 
 Twitter:
 - [TwitterAudit](http://twitteraudit.com/) $\color{green}{\texttt{Free}}$
