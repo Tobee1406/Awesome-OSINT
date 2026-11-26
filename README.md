@@ -44,6 +44,10 @@ OSINT, or Open Source Intelligence, refers to the process of collecting and anal
 - [ICIJ Offshore Leaks Database](http://offshoreleaks.icij.org/) $\color{green}{\texttt{Free}}$
 - [Sanctions Explorer](https://sanctionsexplorer.org/) $\color{green}{\texttt{Free}}$
 - [WorldWide OSINT tools map](https://cybdetective.com/osintmap/) $\color{green}{\texttt{Free}}$
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) (free Apify tier) — Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores.
+- [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) (free Apify tier) — US federal contract and grant awards by agency, recipient, NAICS and period.
+- [Grants.gov Scraper](https://apify.com/publicrecords/grants-gov-scraper) (free Apify tier) — Open US federal grants: agency, deadline, eligibility and source link.
+- [Federal Contracts Feed (SAM.gov + Grants.gov)](https://apify.com/publicrecords/govcon-opportunity-feed) (free Apify tier) — New US federal contract and grant notices from SAM.gov and Grants.gov in one feed.
 
 ## :mortar_board: Education
 - [GeoGuessr](https://www.geoguessr.com/) $\color{red}{\texttt{Paid}}$
